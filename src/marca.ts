@@ -16,7 +16,8 @@ export const MARCA = {
   botonBorde: "#ffffff",
   fuente: "'Montserrat', 'Inter', Arial, sans-serif", // títulos en 900 (Black), mayúsculas
   fuenteCondensada: "'Anton', 'Bebas Neue', Impact, sans-serif", // títulos altos tipo "RULETA EN VIVO"
-  logo: "marca/logo-ganamos.jpg",
+  logo: "marca/logo-ganamos-net.png", // PNG transparente, horizontal
+  logoIcono: "marca/logo-ganamos.jpg", // G grande con fondo oscuro, para avatar o cierre
   web: "WWW.GANAMOS.NET",
   // Siempre visible. No se puede desactivar desde los props.
   legal: "+18 · Jugá con responsabilidad",
