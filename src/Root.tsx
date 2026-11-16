@@ -2,6 +2,7 @@ import React from "react";
 import { Composition, Still } from "remotion";
 import { Reel, duracionReel, type ReelProps } from "./Reel";
 import { Placa, type PlacaProps } from "./Placa";
+import { REELS, FPS_G } from "./Ganamos";
 import reelEjemplo from "../props/reel-servicio24hs.json";
 import placaEjemplo from "../props/placa-servicio24hs.json";
 
@@ -22,5 +23,8 @@ export const Root: React.FC = () => (
     <Still id="Placa-1x1" component={Placa} width={1080} height={1080} defaultProps={placaEjemplo as PlacaProps} />
     <Still id="Placa-4x5" component={Placa} width={1080} height={1350} defaultProps={placaEjemplo as PlacaProps} />
     <Still id="Placa-9x16" component={Placa} width={1080} height={1920} defaultProps={placaEjemplo as PlacaProps} />
+    {REELS.map((r) => (
+      <Composition key={r.id} id={r.id} component={r.component} width={1080} height={1920} fps={FPS_G} durationInFrames={r.dur} />
+    ))}
   </>
 );
