@@ -1,0 +1,11 @@
+{
+  "gancho": "Cargás y jugás en minutos",
+  "escenas": [
+    { "texto": "Entrás directo desde el navegador", "segundos": 3 },
+    { "texto": "Sin descargar nada", "segundos": 2.5 },
+    { "texto": "Ruleta, slots y en vivo", "segundos": 2.5 },
+    { "texto": "Atención todos los días, de persona a persona", "segundos": 3 }
+  ],
+  "cta": "Escribinos y empezá",
+  "videoFondo": null
+}
