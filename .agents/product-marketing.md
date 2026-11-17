@@ -1,6 +1,6 @@
 # Contexto de marca · Ganamos
 
-**Versión del documento:** v1
+**Versión del documento:** v2
 **Última actualización:** 2026-11-17
 
 Este documento lo leen todos los agentes (Leo, Tomi, Sofi, Nico, Vale y Juli) antes de trabajar. Lo marcado con **[FALTA]** todavía no lo confirmó el Jefe: no lo inventes, preguntalo o dejalo afuera.
@@ -32,26 +32,30 @@ Este documento lo leen todos los agentes (Leo, Tomi, Sofi, Nico, Vale y Juli) an
 **Directa:** Perfiles de "cajera" (Lucre C4jera, Lore caja, More Cajera, Camila MEGA) con "recibí un 30% adicional" o "aprovecha 🎁". Fallan en confianza: cambian de perfil y Meta los voltea.
 **Directa:** Páginas genéricas o de otro rubro ("Page4", "Online platforms") con "150 giros de regalo", "60% extra en tu primer depósito" y caracteres en blanco para esquivar la revisión. Fallan en claridad y en durar.
 **Directa con marca:** "Ganamos hoy" usa puntaje de estrellas como gancho. Bingos Codere y Mkt group van por el plan y la emoción ("¡Hoy hay plan!", "La emoción te espera").
-**Indirecta:** Apuestas deportivas y casinos con licencia grandes. **[FALTA: cuáles ve el Jefe como competencia real]**
+**Competencia real (según el Jefe):** todo el rubro de juego online sin licencia: cajeras, perfiles y páginas que aparecen y desaparecen.
 
 ## Diferenciación
 **Lo que nos diferencia:**
 - Somos la página oficial, con marca propia y estable (no un perfil de cajera).
 - Todo claro: lo que hay es lo que se ve, sin regalos inventados.
-- Atención por chat. **[FALTA: confirmar si es 24 horas y si atienden personas]**
-**Por qué nos eligen:** **[FALTA: lo que dicen los jugadores]**
+- Atención por chat las 24 horas, hecha por personas (no bots).
+- Retiros inmediatos por transferencia.
+**Por qué nos eligen:** La página les gusta ("Me encanta la página"), los atiende una persona a cualquier hora y cobran al instante. **[FALTA: más frases textuales de jugadores]**
 
 ## Objeciones
 | Objeción | Respuesta |
 |---|---|
-| "¿Me van a pagar?" | **[FALTA: cómo y en cuánto tiempo se paga un retiro]** |
+| "¿Me van a pagar?" | Sí: los retiros se pagan de forma inmediata por transferencia. |
 | "¿Es la página oficial?" | Sí: marca propia, logo GANAMOS.NET, la misma página de siempre. |
 | "¿Es difícil empezar?" | Creás el usuario y cargás por chat en minutos, desde el celu. |
 
 **A quién NO le hablamos:** Menores, personas con problemas de juego, gente que busca "salir de deudas" o "plata fácil".
 
+## Bono
+**30% extra en la primera carga.** **[FALTA: tope, requisito de apuesta y vigencia; y que las bases estén publicadas en la landing]**. Hasta que esté completo, el ángulo del bono no sale.
+
 ## Lenguaje
-**Palabras que sí:** plan, tu ritmo, vos elegís, en vivo, desde el celu, página oficial, claro, atención por chat, slots, ruleta, mesas en vivo, "Jugar ahora", "Crear usuario".
+**Palabras que sí:** atención 24 horas, te atiende una persona, retiros al instante por transferencia, plan, tu ritmo, vos elegís, en vivo, desde el celu, página oficial, claro, atención por chat, slots, ruleta, mesas en vivo, "Jugar ahora", "Crear usuario".
 **Palabras que no (y por qué):**
 - "casino": pedido del Jefe.
 - "ganá seguro", "garantizado", "sin riesgo", "duplicá tu plata", "miles ganan", "plata fácil", "salir de deudas", "¿estás sin plata?": políticas de Meta.
@@ -74,7 +78,7 @@ Este documento lo leen todos los agentes (Leo, Tomi, Sofi, Nico, Vale y Juli) an
 
 ## Pruebas
 **Métricas (al 16/11/2026):** Últimos 30 días en Meta: unos USD 68, 5 compras, unos USD 13,6 por compra. CRM: 30 contactos desde anuncios, 4 cargaron ($27.240 en total), 1 volvió a cargar.
-**Testimonios:** **[FALTA]**. No inventar testimonios ni puntajes.
+**Lo que dicen los jugadores:** "Me encanta la página". No inventar otros testimonios ni puntajes.
 
 ## Objetivos
 **Del negocio:** Conseguir jugadores que carguen y vuelvan a cargar.
@@ -82,9 +86,9 @@ Este documento lo leen todos los agentes (Leo, Tomi, Sofi, Nico, Vale y Juli) an
 
 ## Publicidad paga
 **Cuenta:** Pixel Fenix, act_983104850852408 (USD). Píxel 1571120308032939. Página: Ganamos (842235985634203, sin punto).
-**Costo por compra objetivo:** **[FALTA: cuánto vale un jugador nuevo]**
-**Piso de alarma:** **[FALTA]**
-**Presupuesto:** En test, USD 15 por día. **[FALTA: presupuesto mensual]**
+**Costo por compra objetivo:** USD 3 por jugador nuevo que carga (lo máximo que quiere pagar el Jefe). Hoy estamos en unos USD 13,6: el objetivo pide bajar el costo unas 4 veces, así que todo test se juzga contra esos USD 3.
+**Piso de alarma:** **[FALTA: a partir de qué costo cortar sí o sí]**
+**Presupuesto:** Arrancar bajo (test con USD 15 por día). Sin tope para subir si los números acompañan; subir de a poco porque la cuenta es nueva.
 **Conversiones que cuentan:**
 | Acción | Significa | Valor | ¿Optimiza? |
 |---|---|---|---|
@@ -101,10 +105,12 @@ Este documento lo leen todos los agentes (Leo, Tomi, Sofi, Nico, Vale y Juli) an
 *Lo más nuevo arriba.*
 | Fecha | Aprendizaje | Evidencia | Aplica a | Estado |
 |---|---|---|---|---|
+| 2026-11-17 | El costo por compra objetivo es USD 3; un test que no baje hacia ahí no se escala. | Decisión del Jefe. Hoy USD 13,6. | Leo | active |
 | 2026-11-16 | Mucho clic no es lo mismo que cargas: medir por compra y carga, no por CTR. | Videos ADS 7: 20% de CTR, 0 compras (USD 10). | Leo, Sofi, Vale | watch |
 | 2026-11-16 | Imagen ADS 3 es el único anuncio que trajo un jugador que volvió a cargar. | 3 compras, 1 repetición, 30 días. | Leo, Vale | watch |
 | 2026-11-16 | El ángulo que queda libre frente a la competencia es "marca clara": página oficial, sin regalos ni promesas. | Relevamiento de Nico, 66 anuncios activos. | Sofi, Vale | watch |
 | 2026-11-16 | No usar la palabra "casino" en los anuncios. | Decisión del Jefe. | Todos | active |
 
 ## Historial de cambios
+- v2 (2026-11-17) — Respuestas del Jefe: atención 24 hs por personas, retiros inmediatos por transferencia, costo objetivo USD 3, presupuesto sin tope si va bien, bono del 30% para la primera carga, competencia real = rubro sin licencia, frase de jugador.
 - v1 (2026-11-17) — Primera versión, armada con lo que se sabe de la cuenta, el CRM y el relevamiento de competencia.
