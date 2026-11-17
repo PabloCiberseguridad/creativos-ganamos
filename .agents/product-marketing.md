@@ -1,6 +1,6 @@
 # Contexto de marca · Ganamos
 
-**Versión del documento:** v2
+**Versión del documento:** v3
 **Última actualización:** 2026-11-17
 
 Este documento lo leen todos los agentes (Leo, Tomi, Sofi, Nico, Vale y Juli) antes de trabajar. Lo marcado con **[FALTA]** todavía no lo confirmó el Jefe: no lo inventes, preguntalo o dejalo afuera.
@@ -87,7 +87,7 @@ Este documento lo leen todos los agentes (Leo, Tomi, Sofi, Nico, Vale y Juli) an
 ## Publicidad paga
 **Cuenta:** Pixel Fenix, act_983104850852408 (USD). Píxel 1571120308032939. Página: Ganamos (842235985634203, sin punto).
 **Costo por compra objetivo:** USD 3 por jugador nuevo que carga (lo máximo que quiere pagar el Jefe). Hoy estamos en unos USD 13,6: el objetivo pide bajar el costo unas 4 veces, así que todo test se juzga contra esos USD 3.
-**Piso de alarma:** **[FALTA: a partir de qué costo cortar sí o sí]**
+**Cortes:** No hay piso automático. Los cortes los decide el Jefe según la información que le pasan y los días que van pasando. Leo informa el costo por compra de cada anuncio contra el objetivo de USD 3, los días que lleva y si la muestra alcanza, y recomienda; nunca corta solo.
 **Presupuesto:** Arrancar bajo (test con USD 15 por día). Sin tope para subir si los números acompañan; subir de a poco porque la cuenta es nueva.
 **Conversiones que cuentan:**
 | Acción | Significa | Valor | ¿Optimiza? |
@@ -112,5 +112,6 @@ Este documento lo leen todos los agentes (Leo, Tomi, Sofi, Nico, Vale y Juli) an
 | 2026-11-16 | No usar la palabra "casino" en los anuncios. | Decisión del Jefe. | Todos | active |
 
 ## Historial de cambios
+- v3 (2026-11-17) — Sin piso de corte automático: los cortes los decide el Jefe con la información diaria de Leo.
 - v2 (2026-11-17) — Respuestas del Jefe: atención 24 hs por personas, retiros inmediatos por transferencia, costo objetivo USD 3, presupuesto sin tope si va bien, bono del 30% para la primera carga, competencia real = rubro sin licencia, frase de jugador.
 - v1 (2026-11-17) — Primera versión, armada con lo que se sabe de la cuenta, el CRM y el relevamiento de competencia.
